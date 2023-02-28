@@ -44,7 +44,7 @@
 - Role based system (Admin & Users). 🧑‍🦱 🧑‍🦰
 
 <h2 align="center">
-   What else ? This was my first react project. 🐣
+   What else ? 🐣
 </h2>
 
 **Note: Ignore no of Commits, PRs and Issues History. This is a sandbox repo with continuous changes.**
