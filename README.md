@@ -47,43 +47,8 @@
    What else ? This was my first react project. 🐣
 </h2>
 
-**This project was created on January 2020. Originally it was built using Hapi.js as the backend. Recently, migrated to Express.**
-
-Ref: [Hapi-Foodle-API](https://github.com/JaganKaartik/Hapi-Foodle-API)
-
 **Note: Ignore no of Commits, PRs and Issues History. This is a sandbox repo with continuous changes.**
 
-<h2 align="center">
-   Demo
-</h2>
-
-<p align="center">
-   <img src="/media/home.gif">
-</p>
-
-<h2 align="center">
-   Dark UI
-</h2>
-
-![](/media/dark_home.png)
-![](/media/dark_login.png)
-![](/media/dash_dark.png)
-
-<h2 align="center">
-   Light UI
-</h2>
-
-![](/media/light_home.png)
-![](/media/light_login.png)
-![](/media/dash.png)
-
-<h2 align="center">
-   Common UI
-</h2>
-
-![](/media/add_dish.png)
-![](/media/dish_op.png)
-![](/media/search_dish.png)
 
 **Attributions:**
 <a href="https://iconscout.com/3ds/dinner-date" target="_blank">Dinner date 3D</a> on <a href="https://iconscout.com">Iconscout</a>
